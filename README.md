@@ -27,7 +27,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-b8bfbd?style=for-the-badge&logo=windows&logoColor=0D1117&labelColor=b8bfbd)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-b8bfbd?style=for-the-badge&logo=microsoft-office&logoColor=0D1117&labelColor=b8bfbd)&nbsp;
 
-### Other Knowledge:
+### Other knowledge:
 ![MySQL](https://img.shields.io/badge/-mysql-b8bfbd?style=for-the-badge&logo=mysql&logoColor=0D1117&labelColor=b8bfbd)&nbsp;
 
 ### Studying in this moment:
